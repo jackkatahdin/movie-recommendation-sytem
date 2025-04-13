@@ -1,0 +1,2288 @@
+[
+  {
+    "title": "The Shawshank Redemption",
+    "year": 1994,
+    "genres": ["Drama"],
+    "certificate": "R",
+    "budget": 25000000,
+    "boxOffice": 28884504,
+    "tagline": "Fear can hold you prisoner. Hope can set you free."
+  },
+  {
+    "title": "The Godfather",
+    "year": 1972,
+    "genres": ["Crime", "Drama"],
+    "certificate": "R",
+    "budget": 6000000,
+    "boxOffice": 250341816,
+    "tagline": "An offer you can't refuse."
+  },
+  {
+    "title": "The Dark Knight",
+    "year": 2008,
+    "genres": ["Action", "Crime", "Drama"],
+    "certificate": "PG-13",
+    "budget": 185000000,
+    "boxOffice": 1006234167,
+    "tagline": "Why So Serious?"
+  },
+  {
+    "title": "The Godfather Part II",
+    "year": 1974,
+    "genres": ["Crime", "Drama"],
+    "certificate": "R",
+    "budget": 13000000,
+    "boxOffice": 47961919,
+    "tagline": "All the power on earth can't change destiny."
+  },
+  {
+    "title": "12 Angry Men",
+    "year": 1957,
+    "genres": ["Crime", "Drama"],
+    "certificate": "Approved",
+    "budget": 350000,
+    "boxOffice": 955,
+    "tagline": "Life Is In Their Hands -- Death Is On Their Minds!"
+  },
+  {
+    "title": "Schindler's List",
+    "year": 1993,
+    "genres": ["Biography", "Drama", "History"],
+    "certificate": "R",
+    "budget": 22000000,
+    "boxOffice": 322161245,
+    "tagline": "Whoever saves one life, saves the world entire."
+  },
+  {
+    "title": "The Lord of the Rings: The Return of the King",
+    "year": 2003,
+    "genres": ["Action", "Adventure", "Drama"],
+    "certificate": "PG-13",
+    "budget": 94000000,
+    "boxOffice": 1146457748,
+    "tagline": "The eye of the enemy is moving."
+  },
+  {
+    "title": "Pulp Fiction",
+    "year": 1994,
+    "genres": ["Crime", "Drama"],
+    "certificate": "R",
+    "budget": 8000000,
+    "boxOffice": 213928762,
+    "tagline": "You won't know the facts until you've seen the fiction"
+  },
+  {
+    "title": "The Lord of the Rings: The Fellowship of the Ring",
+    "year": 2001,
+    "genres": ["Action", "Adventure", "Drama"],
+    "certificate": "PG-13",
+    "budget": 93000000,
+    "boxOffice": 898204420,
+    "tagline": "The Legend Comes to Life"
+  },
+  {
+    "title": "The Good, the Bad and the Ugly",
+    "year": 1966,
+    "genres": ["Adventure", "Western"],
+    "certificate": "Approved",
+    "budget": 1200000,
+    "boxOffice": 25253887,
+    "tagline": "They formed an alliance of hate to steal a fortune in dead man's gold"
+  },
+  {
+    "title": "Forrest Gump",
+    "year": 1994,
+    "genres": ["Drama", "Romance"],
+    "certificate": "PG-13",
+    "budget": 55000000,
+    "boxOffice": 678226465,
+    "tagline": "The story of a lifetime."
+  },
+  {
+    "title": "Fight Club",
+    "year": 1999,
+    "genres": ["Drama"],
+    "certificate": "R",
+    "budget": 63000000,
+    "boxOffice": 101209702,
+    "tagline": "How much can you know about yourself if you've never been in a fight?"
+  },
+  {
+    "title": "The Lord of the Rings: The Two Towers",
+    "year": 2002,
+    "genres": ["Action", "Adventure", "Drama"],
+    "certificate": "PG-13",
+    "budget": 94000000,
+    "boxOffice": 947944270,
+    "tagline": "A New Power Is Rising."
+  },
+  {
+    "title": "Inception",
+    "year": 2010,
+    "genres": ["Action", "Adventure", "Sci-Fi"],
+    "certificate": "PG-13",
+    "budget": 160000000,
+    "boxOffice": 836848102,
+    "tagline": "Your mind is the scene of the crime"
+  },
+  {
+    "title": "Star Wars: Episode V - The Empire Strikes Back",
+    "year": 1980,
+    "genres": ["Action", "Adventure", "Fantasy"],
+    "certificate": "PG",
+    "budget": 18000000,
+    "boxOffice": 538375067,
+    "tagline": "The Adventure Continues..."
+  },
+  {
+    "title": "The Matrix",
+    "year": 1999,
+    "genres": ["Action", "Sci-Fi"],
+    "certificate": "R",
+    "budget": 63000000,
+    "boxOffice": 467222728,
+    "tagline": "Free your mind"
+  },
+  {
+    "title": "Goodfellas",
+    "year": 1990,
+    "genres": ["Biography", "Crime", "Drama"],
+    "certificate": "R",
+    "budget": 25000000,
+    "boxOffice": 47036784,
+    "tagline": "As far back as I can remember, I've always wanted to be a gangster."
+  },
+  {
+    "title": "One Flew Over the Cuckoo's Nest",
+    "year": 1975,
+    "genres": ["Drama"],
+    "certificate": "18+",
+    "budget": 3000000,
+    "boxOffice": 109114817,
+    "tagline": "If he's crazy, what does that make you?"
+  },
+  {
+    "title": "Se7en",
+    "year": 1995,
+    "genres": ["Crime", "Drama", "Mystery"],
+    "certificate": "R",
+    "budget": 33000000,
+    "boxOffice": 327333559,
+    "tagline": "Long is the way, and hard, that out of hell leads up to light."
+  },
+  {
+    "title": "Seven Samurai",
+    "year": 1954,
+    "genres": ["Action", "Drama"],
+    "certificate": "Not Rated",
+    "budget": 125000000,
+    "boxOffice": 346258,
+    "tagline": "Will Take Its Place With the Seven Greatest Films of All Time!"
+  },
+  {
+    "title": "It's a Wonderful Life",
+    "year": 1946,
+    "genres": ["Drama", "Family", "Fantasy"],
+    "certificate": "PG",
+    "budget": 3180000,
+    "boxOffice": 8574081,
+    "tagline": "Frank Capra's: It's a Wonderful Life."
+  },
+  {
+    "title": "The Silence of the Lambs",
+    "year": 1991,
+    "genres": ["Crime", "Drama", "Thriller"],
+    "certificate": "R",
+    "budget": 19000000,
+    "boxOffice": 272742922,
+    "tagline": "Dr. Hannibal Lecter. Brilliant. Cunning. Psychotic. In his mind lies the clue to a ruthless killer. - Clarice Starling, FBI. Brilliant. Vulnerable. Alone. She must trust him to stop the killer."
+  },
+  {
+    "title": "City of God",
+    "year": 2002,
+    "genres": ["Crime", "Drama"],
+    "certificate": "R",
+    "budget": 3300000,
+    "boxOffice": 30680793,
+    "tagline": "If you run, the beast will get you. If you stay, the beast will eat you"
+  },
+  {
+    "title": "Saving Private Ryan",
+    "year": 1998,
+    "genres": ["Drama"],
+    "certificate": "R",
+    "budget": 70000000,
+    "boxOffice": 482349603,
+    "tagline": "In the Last Great Invasion of the Last Great War, The Greatest Danger for Eight Men was Saving... One."
+  },
+  {
+    "title": "Interstellar",
+    "year": 2014,
+    "genres": ["Adventure", "Drama", "Sci-Fi"],
+    "certificate": "PG-13",
+    "budget": 165000000,
+    "boxOffice": 773867216,
+    "tagline": "Mankind was born on Earth. It was never meant to die here."
+  },
+  {
+    "title": "Life Is Beautiful",
+    "year": 1997,
+    "genres": ["Comedy", "Drama", "Romance"],
+    "certificate": "PG-13",
+    "budget": 20000000,
+    "boxOffice": 230098753,
+    "tagline": "An unforgettable fable that proves love, family and imagination conquer all. (Canadian one sheet)"
+  },
+  {
+    "title": "The Green Mile",
+    "year": 1999,
+    "genres": ["Crime", "Drama", "Fantasy"],
+    "certificate": "R",
+    "budget": 60000000,
+    "boxOffice": 286801374,
+    "tagline": "Miracles do happen."
+  },
+  {
+    "title": "Star Wars: Episode IV - A New Hope",
+    "year": 1977,
+    "genres": ["Action", "Adventure", "Fantasy"],
+    "certificate": "PG",
+    "budget": 11000000,
+    "boxOffice": 775398007,
+    "tagline": "It's Back! The Force will be with you for three weeks only. (1979 Reissue Poster)"
+  },
+  {
+    "title": "Terminator 2: Judgment Day",
+    "year": 1991,
+    "genres": ["Action", "Sci-Fi"],
+    "certificate": "R",
+    "budget": 102000000,
+    "boxOffice": 520881154,
+    "tagline": "It's nothing personal."
+  },
+  {
+    "title": "Back to the Future",
+    "year": 1985,
+    "genres": ["Adventure", "Comedy", "Sci-Fi"],
+    "certificate": "PG",
+    "budget": 19000000,
+    "boxOffice": 383336762,
+    "tagline": "He's the only kid ever to get into trouble before he was born. [UK]"
+  },
+  {
+    "title": "Spirited Away",
+    "year": 2001,
+    "genres": ["Animation", "Adventure", "Family"],
+    "certificate": "PG",
+    "budget": 19000000,
+    "boxOffice": 355822319,
+    "tagline": "The tunnel led Chihiro to a mysterious town."
+  },
+  {
+    "title": "The Pianist",
+    "year": 2002,
+    "genres": ["Biography", "Drama"],
+    "certificate": "R",
+    "budget": 35000000,
+    "boxOffice": 120072577,
+    "tagline": "Music was his passion. Survival was his masterpiece."
+  },
+  {
+    "title": "Psycho",
+    "year": 1960,
+    "genres": ["Horror", "Mystery", "Thriller"],
+    "certificate": "R",
+    "budget": 806947,
+    "boxOffice": 32052925,
+    "tagline": "The picture you MUST see from the beginning... Or not at all!... For no one will be seated after the start of... Alfred Hitchcock's greatest shocker Psycho."
+  },
+  {
+    "title": "Parasite",
+    "year": 2019,
+    "genres": ["Drama", "Thriller"],
+    "certificate": "R",
+    "budget": 11400000,
+    "boxOffice": 262676096,
+    "tagline": "Misplaced familyhood (Australia/New Zealand/Singapore)"
+  },
+  {
+    "title": "Léon: The Professional",
+    "year": 1994,
+    "genres": ["Action", "Crime", "Drama"],
+    "certificate": "R",
+    "budget": 16000000,
+    "boxOffice": 19569225,
+    "tagline": "If you want the job done right, hire a professional."
+  },
+  {
+    "title": "The Lion King",
+    "year": 1994,
+    "genres": ["Animation", "Adventure", "Drama"],
+    "certificate": "G",
+    "budget": 45000000,
+    "boxOffice": 968511805,
+    "tagline": "See it for the first time ever in 3D (2011 3D re-release)"
+  },
+  {
+    "title": "Gladiator",
+    "year": 2000,
+    "genres": ["Action", "Adventure", "Drama"],
+    "certificate": "R",
+    "budget": 103000000,
+    "boxOffice": 503162313,
+    "tagline": "Father of a murdered son, husband to a murdered wife and I shall have my vengeance in this life or the next"
+  },
+  {
+    "title": "American History X",
+    "year": 1998,
+    "genres": ["Crime", "Drama"],
+    "certificate": "R",
+    "budget": 20000000,
+    "boxOffice": 23875127,
+    "tagline": "His father taught him to hate. His friends taught him rage. His enemies gave him hope."
+  },
+  {
+    "title": "The Departed",
+    "year": 2006,
+    "genres": ["Crime", "Drama", "Thriller"],
+    "certificate": "R",
+    "budget": 90000000,
+    "boxOffice": 291480452,
+    "tagline": "Lies. Betrayal. Sacrifice. How far will you take it?"
+  },
+  {
+    "title": "The Usual Suspects",
+    "year": 1995,
+    "genres": ["Crime", "Drama", "Mystery"],
+    "certificate": "R",
+    "budget": 6000000,
+    "boxOffice": 23341568,
+    "tagline": "The greatest trick the devil ever pulled was to convince the world he didn't exist"
+  },
+  {
+    "title": "The Prestige",
+    "year": 2006,
+    "genres": ["Drama", "Mystery", "Sci-Fi"],
+    "certificate": "PG-13",
+    "budget": 40000000,
+    "boxOffice": 109676311,
+    "tagline": "A Friendship That Became a Rivalry."
+  },
+  {
+    "title": "Whiplash",
+    "year": 2014,
+    "genres": ["Drama"],
+    "certificate": "R",
+    "budget": 3300000,
+    "boxOffice": 49396747,
+    "tagline": "The road to greatness can take you to the edge"
+  },
+  {
+    "title": "Casablanca",
+    "year": 1942,
+    "genres": ["Drama", "Romance"],
+    "certificate": "PG",
+    "budget": 950000,
+    "boxOffice": 4626532,
+    "tagline": "Where Love Cuts as Deep as a Dagger!"
+  },
+  {
+    "title": "Grave of the Fireflies",
+    "year": 1988,
+    "genres": ["Animation", "Drama"],
+    "certificate": "Not Rated",
+    "budget": 3700000,
+    "boxOffice": 516962,
+    "tagline": "imationDramaWar"
+  },
+  {
+    "title": "Harakiri",
+    "year": 1962,
+    "genres": ["Action", "Drama", "Mystery"],
+    "certificate": "Not Rated",
+    "budget": 100,
+    "boxOffice": 100,
+    "tagline": "The World Has Never Understood Why the Japanese Prefer Death to Dishonor! This Samurai Picture Provides The Answer!!"
+  },
+  {
+    "title": "The Intouchables",
+    "year": 2011,
+    "genres": ["Biography", "Comedy", "Drama"],
+    "certificate": "R",
+    "budget": 9500000,
+    "boxOffice": 426588510,
+    "tagline": "Sometimes you have to reach into someone else's world to find out what's missing in your own."
+  },
+  {
+    "title": "Modern Times",
+    "year": 1936,
+    "genres": ["Comedy", "Drama", "Romance"],
+    "certificate": "G",
+    "budget": 1500000,
+    "boxOffice": 463618,
+    "tagline": "He stands alone as the greatest entertainer of modern times! No one on earth can make you laugh as heartily or touch your heart as deeply...the whole world laughs, cries and thrills to his priceless genius!"
+  },
+  {
+    "title": "Once Upon a Time in the West",
+    "year": 1968,
+    "genres": ["Western"],
+    "certificate": "PG-13",
+    "budget": 5000000,
+    "boxOffice": 5435024,
+    "tagline": "There were three men in her life. One knew her past. One wanted her land. One wanted revenge."
+  },
+  {
+    "title": "Rear Window",
+    "year": 1954,
+    "genres": ["Mystery", "Thriller"],
+    "certificate": "PG",
+    "budget": 1000000,
+    "boxOffice": 37034579,
+    "tagline": "The Essential Hitchcock"
+  },
+  {
+    "title": "Cinema Paradiso",
+    "year": 1988,
+    "genres": ["Drama", "Romance"],
+    "certificate": "PG",
+    "budget": 5000000,
+    "boxOffice": 13019063,
+    "tagline": "A celebration of youth, friendship, and the everlasting magic of the movies."
+  },
+  {
+    "title": "Alien",
+    "year": 1979,
+    "genres": ["Horror", "Sci-Fi"],
+    "certificate": "R",
+    "budget": 11000000,
+    "boxOffice": 106285522,
+    "tagline": "In space no one can hear you scream."
+  },
+  {
+    "title": "City Lights",
+    "year": 1931,
+    "genres": ["Comedy", "Drama", "Romance"],
+    "certificate": "G",
+    "budget": 1500000,
+    "boxOffice": 50419,
+    "tagline": "HE RETURNS -And the world rocks again with laughter. (Print Ad-Daily Examiner, ((Grafton, NSW)) 6 July 1931)"
+  },
+  {
+    "title": "Apocalypse Now",
+    "year": 1979,
+    "genres": ["Drama", "Mystery"],
+    "certificate": "R",
+    "budget": 31500000,
+    "boxOffice": 104880868,
+    "tagline": "The Horror. . . The Horror. . ."
+  },
+  {
+    "title": "Memento",
+    "year": 2000,
+    "genres": ["Mystery", "Thriller"],
+    "certificate": "R",
+    "budget": 9000000,
+    "boxOffice": 40047078,
+    "tagline": "Some memories are best forgotten"
+  },
+  {
+    "title": "Django Unchained",
+    "year": 2012,
+    "genres": ["Drama", "Western"],
+    "certificate": "R",
+    "budget": 100000000,
+    "boxOffice": 426074373,
+    "tagline": "Life, liberty and the pursuit of vengeance."
+  },
+  {
+    "title": "Indiana Jones and the Raiders of the Lost Ark",
+    "year": 1981,
+    "genres": ["Action", "Adventure"],
+    "certificate": "PG",
+    "budget": 18000000,
+    "boxOffice": 389925971,
+    "tagline": "Indiana Jones - the new hero from the creators of JAWS and STAR WARS."
+  },
+  {
+    "title": "WALL·E",
+    "year": 2008,
+    "genres": ["Animation", "Adventure", "Family"],
+    "certificate": "G",
+    "budget": 180000000,
+    "boxOffice": 521311890,
+    "tagline": "After 700 years of doing what he was built for - he'll discover what he's meant for."
+  },
+  {
+    "title": "The Lives of Others",
+    "year": 2006,
+    "genres": ["Drama", "Mystery", "Thriller"],
+    "certificate": "R",
+    "budget": 2000000,
+    "boxOffice": 77356942,
+    "tagline": "Before the Fall of the Berlin Wall, East Germany's Secret Police Listened to Your Secrets"
+  },
+  {
+    "title": "Sunset Blvd.",
+    "year": 1950,
+    "genres": ["Drama"],
+    "certificate": "Passed",
+    "budget": 1752000,
+    "boxOffice": 300073,
+    "tagline": "A Hollywood Story"
+  },
+  {
+    "title": "Paths of Glory",
+    "year": 1957,
+    "genres": ["Drama"],
+    "certificate": "Approved",
+    "budget": 935000,
+    "boxOffice": 5252,
+    "tagline": "Never has the screen thrust so deeply into the guts of war!"
+  },
+  {
+    "title": "The Shining",
+    "year": 1980,
+    "genres": ["Drama", "Horror"],
+    "certificate": "R",
+    "budget": 19000000,
+    "boxOffice": 47335804,
+    "tagline": "Iconic terror from the No 1 bestselling writer."
+  },
+  {
+    "title": "The Great Dictator",
+    "year": 1940,
+    "genres": ["Comedy", "Drama"],
+    "certificate": "G",
+    "budget": 2000000,
+    "boxOffice": 970263,
+    "tagline": "The Comedy Masterpiece!"
+  },
+  {
+    "title": "Avengers: Infinity War",
+    "year": 2018,
+    "genres": ["Action", "Adventure", "Sci-Fi"],
+    "certificate": "PG-13",
+    "budget": 321000000,
+    "boxOffice": 2052415039,
+    "tagline": "An entire universe. Once and for all."
+  },
+  {
+    "title": "Witness for the Prosecution",
+    "year": 1957,
+    "genres": ["Crime", "Drama", "Mystery"],
+    "certificate": "Approved",
+    "budget": 3000000,
+    "boxOffice": 7693,
+    "tagline": "The most electrifying entertainment of our time!"
+  },
+  {
+    "title": "Aliens",
+    "year": 1986,
+    "genres": ["Action", "Adventure", "Sci-Fi"],
+    "certificate": "R",
+    "budget": 18500000,
+    "boxOffice": 131060248,
+    "tagline": "This time there's more."
+  },
+  {
+    "title": "Spider-Man: Into the Spider-Verse",
+    "year": 2018,
+    "genres": ["Animation", "Action", "Adventure"],
+    "certificate": "PG",
+    "budget": 90000000,
+    "boxOffice": 394000000,
+    "tagline": "Enter a universe where more than one wears the mask."
+  },
+  {
+    "title": "American Beauty",
+    "year": 1999,
+    "genres": ["Drama"],
+    "certificate": "R",
+    "budget": 15000000,
+    "boxOffice": 356296601,
+    "tagline": "... look closer"
+  },
+  {
+    "title": "Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb",
+    "year": 1964,
+    "genres": ["Comedy"],
+    "certificate": "PG",
+    "budget": 1800000,
+    "boxOffice": 9523464,
+    "tagline": "The comedy classic from celebrated director STANLEY KUBRICK"
+  },
+  {
+    "title": "The Dark Knight Rises",
+    "year": 2012,
+    "genres": ["Action", "Drama"],
+    "certificate": "PG-13",
+    "budget": 250000000,
+    "boxOffice": 1081169825,
+    "tagline": "The Legend Ends"
+  },
+  {
+    "title": "Oldboy",
+    "year": 2003,
+    "genres": ["Action", "Drama", "Mystery"],
+    "certificate": "R",
+    "budget": 3000000,
+    "boxOffice": 15421226,
+    "tagline": "15 years of imprisonment, five days of vengeance"
+  },
+  {
+    "title": "Inglourious Basterds",
+    "year": 2009,
+    "genres": ["Adventure", "Drama"],
+    "certificate": "R",
+    "budget": 70000000,
+    "boxOffice": 321457747,
+    "tagline": "Once upon a time in Nazi occupied France..."
+  },
+  {
+    "title": "Amadeus",
+    "year": 1984,
+    "genres": ["Biography", "Drama"],
+    "certificate": "PG",
+    "budget": 18000000,
+    "boxOffice": 52066791,
+    "tagline": "The man... The music... The madness... The murder... The motion picture..."
+  },
+  {
+    "title": "Coco",
+    "year": 2017,
+    "genres": ["Animation", "Adventure", "Comedy"],
+    "certificate": "PG",
+    "budget": 175000000,
+    "boxOffice": 814337054,
+    "tagline": "The celebration of a lifetime"
+  },
+  {
+    "title": "Toy Story",
+    "year": 1995,
+    "genres": ["Animation", "Adventure", "Comedy"],
+    "certificate": "G",
+    "budget": 30000000,
+    "boxOffice": 394436586,
+    "tagline": "Oooh...3-D"
+  },
+  {
+    "title": "Joker",
+    "year": 2019,
+    "genres": ["Crime", "Drama", "Thriller"],
+    "certificate": "R",
+    "budget": 55000000,
+    "boxOffice": 1074458282,
+    "tagline": "Put on a happy face."
+  },
+  {
+    "title": "Braveheart",
+    "year": 1995,
+    "genres": ["Biography", "Drama", "History"],
+    "certificate": "R",
+    "budget": 72000000,
+    "boxOffice": 213216216,
+    "tagline": "The story of a man with a free soul...and with the courage to follow it."
+  },
+  {
+    "title": "The Boat",
+    "year": 1981,
+    "genres": ["Drama"],
+    "certificate": "Not Available",
+    "budget": 50000000,
+    "boxOffice": 11487676,
+    "tagline": "This is the story of 42 raw recruits caught up in a war they didn't understand, and the Captain who must lead them in their struggle to survive."
+  },
+  {
+    "title": "Avengers: Endgame",
+    "year": 2019,
+    "genres": ["Action", "Adventure", "Drama"],
+    "certificate": "PG-13",
+    "budget": 356000000,
+    "boxOffice": 2000000000,
+    "tagline": "Avenge the fallen."
+  },
+  {
+    "title": "Princess Mononoke",
+    "year": 1997,
+    "genres": ["Animation", "Action", "Adventure"],
+    "certificate": "PG-13",
+    "budget": 240000000,
+    "boxOffice": 1700058000,
+    "tagline": "Live on."
+  },
+  {
+    "title": "Once Upon a Time in America",
+    "year": 1984,
+    "genres": ["Crime", "Drama"],
+    "certificate": "R",
+    "budget": 30000000,
+    "boxOffice": 5473337,
+    "tagline": "Crime, passion and lust for power - Sergio Leone's explosive saga of gangland America."
+  },
+  {
+    "title": "Good Will Hunting",
+    "year": 1997,
+    "genres": ["Drama", "Romance"],
+    "certificate": "R",
+    "budget": 100,
+    "boxOffice": 1000,
+    "tagline": "Some people can never believe in themselves, until someone believes in them."
+  },
+  {
+    "title": "Your Name.",
+    "year": 2016,
+    "genres": ["Animation", "Drama", "Fantasy"],
+    "certificate": "TV-PG",
+    "budget": 100,
+    "boxOffice": 1000,
+    "tagline": "Experience Japan's #1 film of 2016, from visionary director Makoto Shinkai"
+  },
+  {
+    "title": "3 Idiots",
+    "year": 2009,
+    "genres": ["Comedy", "Drama"],
+    "certificate": "PG-13",
+    "budget": 550000000,
+    "boxOffice": 60262836,
+    "tagline": "Don't be Stupid. Be an I.D.I.O.T."
+  },
+  {
+    "title": "Singin' in the Rain",
+    "year": 1952,
+    "genres": ["Comedy", "Musical", "Romance"],
+    "certificate": "G",
+    "budget": 2540800,
+    "boxOffice": 2000288,
+    "tagline": "Singin' Swingin' Glorious Feelin' Technicolor Musical"
+  },
+  {
+    "title": "Requiem for a Dream",
+    "year": 2000,
+    "genres": ["Drama"],
+    "certificate": "Unrated",
+    "budget": 4500000,
+    "boxOffice": 7390108,
+    "tagline": "From the director of [Pi]"
+  },
+  {
+    "title": "Toy Story 3",
+    "year": 2010,
+    "genres": ["Animation", "Adventure", "Comedy"],
+    "certificate": "G",
+    "budget": 200000000,
+    "boxOffice": 1067316101,
+    "tagline": "The Breakout Comedy Of The Summer"
+  },
+  {
+    "title": "High and Low",
+    "year": 1963,
+    "genres": ["Crime", "Drama", "Mystery"],
+    "certificate": "Not Rated",
+    "budget": 100,
+    "boxOffice": 1000,
+    "tagline": "142 Screenful Minutes of Thrills and Suspense!"
+  },
+  {
+    "title": "Capernaum",
+    "year": 2018,
+    "genres": ["Drama"],
+    "certificate": "R",
+    "budget": 100,
+    "boxOffice": 1000,
+    "tagline": "Why are you suing your parents? For giving me life."
+  },
+  {
+    "title": "Star Wars: Episode VI - Return of the Jedi",
+    "year": 1983,
+    "genres": ["Action", "Adventure", "Fantasy"],
+    "certificate": "PG",
+    "budget": 32500000,
+    "boxOffice": 475106177,
+    "tagline": "Coming May 25, 1983 to your galaxy."
+  },
+  {
+    "title": "Eternal Sunshine of the Spotless Mind",
+    "year": 2004,
+    "genres": ["Drama", "Romance", "Sci-Fi"],
+    "certificate": "R",
+    "budget": 20000000,
+    "boxOffice": 74036715,
+    "tagline": "I already forget how I used to feel about you."
+  },
+  {
+    "title": "2001: A Space Odyssey",
+    "year": 1968,
+    "genres": ["Adventure", "Sci-Fi"],
+    "certificate": "G",
+    "budget": 12000000,
+    "boxOffice": 65889846,
+    "tagline": "Let the Awe and Mystery of a Journey Unlike Any Other Begin"
+  },
+  {
+    "title": "Reservoir Dogs",
+    "year": 1992,
+    "genres": ["Crime", "Thriller"],
+    "certificate": "R",
+    "budget": 1200000,
+    "boxOffice": 2913644,
+    "tagline": "Seven Total Strangers Team Up For The Perfect Crime. They Don't Know Each Other's Name. But They've Got Each Other's Color"
+  },
+  {
+    "title": "Come and See",
+    "year": 1985,
+    "genres": ["Drama", "Thriller"],
+    "certificate": "Not Rated",
+    "budget": 100,
+    "boxOffice": 1000,
+    "tagline": "The cruelest side of war."
+  },
+  {
+    "title": "The Hunt",
+    "year": 2012,
+    "genres": ["Drama"],
+    "certificate": "R",
+    "budget": 100,
+    "boxOffice": 1000,
+    "tagline": "The lie is spreading."
+  },
+  {
+    "title": "Citizen Kane",
+    "year": 1941,
+    "genres": ["Drama", "Mystery"],
+    "certificate": "PG",
+    "budget": 839727,
+    "boxOffice": 1645133,
+    "tagline": "Radio's Most Dynamic Artist . . The Man At Whose Voice A Nation Trembled . . . Now the screen's most exciting NEW star ! ORSON WELLES in the picture Hollywood said he'd never make"
+  },
+  {
+    "title": "M",
+    "year": 1931,
+    "genres": ["Crime", "Mystery", "Thriller"],
+    "certificate": "Passed",
+    "budget": 10000,
+    "boxOffice": 35566,
+    "tagline": "IT STAGGERS THE SENSES!...SHOCKS the Imagination - It will leave you Gasping - It is the Sensation of 3 Continents!"
+  },
+  {
+    "title": "Lawrence of Arabia",
+    "year": 1962,
+    "genres": ["Adventure", "Biography", "Drama"],
+    "certificate": "Approved",
+    "budget": 15000000,
+    "boxOffice": 45720631,
+    "tagline": "A Mighty Motion Picture Of Action And Adventure!"
+  },
+  {
+    "title": "North by Northwest",
+    "year": 1959,
+    "genres": ["Action", "Adventure", "Mystery"],
+    "certificate": "Approved",
+    "budget": 3101000,
+    "boxOffice": 142319,
+    "tagline": "Alfred Hitchcock takes you.... North by Northwest!"
+  },
+  {
+    "title": "Vertigo",
+    "year": 1958,
+    "genres": ["Mystery", "Romance", "Thriller"],
+    "certificate": "PG",
+    "budget": 2479000,
+    "boxOffice": 7798146,
+    "tagline": "A Hitchcock thriller. You should see it from the beginning!"
+  },
+  {
+    "title": "Ikiru",
+    "year": 1952,
+    "genres": ["Drama"],
+    "certificate": "Not Rated",
+    "budget": 20000,
+    "boxOffice": 96302,
+    "tagline": "One of the Great Films of Our Time!"
+  },
+  {
+    "title": "Amélie",
+    "year": 2001,
+    "genres": ["Comedy", "Romance"],
+    "certificate": "R",
+    "budget": 10000000,
+    "boxOffice": 174122191,
+    "tagline": "One person can change your life forever."
+  },
+  {
+    "title": "The Apartment",
+    "year": 1960,
+    "genres": ["Comedy", "Drama", "Romance"],
+    "certificate": "Approved",
+    "budget": 3000000,
+    "boxOffice": 18778738,
+    "tagline": "Movie-wise, there has never been anything like THE APARTMENT love-wise, laugh-wise or otherwise-wise!"
+  },
+  {
+    "title": "A Clockwork Orange",
+    "year": 1971,
+    "genres": ["Crime", "Sci-Fi"],
+    "certificate": "X",
+    "budget": 2200000,
+    "boxOffice": 26960374,
+    "tagline": "Being the adventures of a young man ... who couldn't resist pretty girls ... or a bit of the old ultra-violence ... went to jail, was re-conditioned ... and came out a different young man ... or was he ?"
+  },
+  {
+    "title": "Double Indemnity",
+    "year": 1944,
+    "genres": ["Crime", "Drama"],
+    "certificate": "Passed",
+    "budget": 927262,
+    "boxOffice": 14651,
+    "tagline": "IT'S LOVE AND MURDER AT FIRST SIGHT! (print ad - Lubbock Morning Avalanche - Lindsey Theatre - Lubbock, Texas - September 1, 1944 - all caps)"
+  },
+  {
+    "title": "Full Metal Jacket",
+    "year": 1987,
+    "genres": ["Drama"],
+    "certificate": "R",
+    "budget": 30000000,
+    "boxOffice": 46358827,
+    "tagline": "An Epic Story of the Vietnam War [Australia Theatrical]"
+  },
+  {
+    "title": "Top Gun: Maverick",
+    "year": 2022,
+    "genres": ["Action", "Drama"],
+    "certificate": "PG-13",
+    "budget": 170000000,
+    "boxOffice": 1488732821,
+    "tagline": "Feel the need... The need for speed."
+  },
+  {
+    "title": "Scarface",
+    "year": 1983,
+    "genres": ["Crime", "Drama"],
+    "certificate": "R",
+    "budget": 25000000,
+    "boxOffice": 65884703,
+    "tagline": "He was Tony Montana. The world will remember him by another name...SCARFACE."
+  },
+  {
+    "title": "Hamilton",
+    "year": 2020,
+    "genres": ["Biography", "Drama", "History"],
+    "certificate": "PG-13",
+    "budget": 100,
+    "boxOffice": 1000,
+    "tagline": "An American Musical"
+  },
+  {
+    "title": "Incendies",
+    "year": 2010,
+    "genres": ["Drama", "Mystery"],
+    "certificate": "R",
+    "budget": 6800000,
+    "boxOffice": 6788659,
+    "tagline": "The search began at the opening of their mother's will."
+  },
+  {
+    "title": "To Kill a Mockingbird",
+    "year": 1962,
+    "genres": ["Crime", "Drama"],
+    "certificate": "Approved",
+    "budget": 2000000,
+    "boxOffice": 599146,
+    "tagline": "The most beloved and widely read Pulitzer Prize Winner now comes vividly alive on the screen!"
+  },
+  {
+    "title": "Heat",
+    "year": 1995,
+    "genres": ["Action", "Crime", "Drama"],
+    "certificate": "R",
+    "budget": 60000000,
+    "boxOffice": 187436818,
+    "tagline": "An L.A. Redemption"
+  },
+  {
+    "title": "The Sting",
+    "year": 1973,
+    "genres": ["Comedy", "Crime", "Drama"],
+    "certificate": "PG",
+    "budget": 5500000,
+    "boxOffice": 156000000,
+    "tagline": "Recapture the STING Experience. REMEMBER HOW GOOD THE FEEL WAS THE FIRST TIME (re-release)"
+  },
+  {
+    "title": "Up",
+    "year": 2009,
+    "genres": ["Animation", "Adventure", "Comedy"],
+    "certificate": "PG",
+    "budget": 175000000,
+    "boxOffice": 735099102,
+    "tagline": "Fly Up to Venezuela"
+  },
+  {
+    "title": "A Separation",
+    "year": 2011,
+    "genres": ["Drama"],
+    "certificate": "PG-13",
+    "budget": 500000,
+    "boxOffice": 22926076,
+    "tagline": "Ugly truth, sweet lies"
+  },
+  {
+    "title": "Metropolis",
+    "year": 1927,
+    "genres": ["Drama", "Sci-Fi"],
+    "certificate": "Not Rated",
+    "budget": 100,
+    "boxOffice": 1349711,
+    "tagline": "Fritz Lang's 1927 Masterpiece Now With 25 Minutes of Lost Footage (2010 re-release)"
+  },
+  {
+    "title": "Taxi Driver",
+    "year": 1976,
+    "genres": ["Crime", "Drama"],
+    "certificate": "R",
+    "budget": 1300000,
+    "boxOffice": 28570902,
+    "tagline": "On every street in every city in this country, there's a nobody who dreams of being a somebody."
+  },
+  {
+    "title": "L.A. Confidential",
+    "year": 1997,
+    "genres": ["Crime", "Drama", "Mystery"],
+    "certificate": "R",
+    "budget": 35000000,
+    "boxOffice": 126216940,
+    "tagline": "Off the record, on the QT, and very hush-hush..."
+  },
+  {
+    "title": "Die Hard",
+    "year": 1988,
+    "genres": ["Action", "Thriller"],
+    "certificate": "R",
+    "budget": 28000000,
+    "boxOffice": 141603197,
+    "tagline": "It will blow you through the back wall of the theater!"
+  },
+  {
+    "title": "Snatch",
+    "year": 2000,
+    "genres": ["Comedy", "Crime"],
+    "certificate": "R",
+    "budget": 6000000,
+    "boxOffice": 83557872,
+    "tagline": "Stealin' Stones and Breakin' Bones"
+  },
+  {
+    "title": "Indiana Jones and the Last Crusade",
+    "year": 1989,
+    "genres": ["Action", "Adventure"],
+    "certificate": "PG-13",
+    "budget": 48000000,
+    "boxOffice": 474171806,
+    "tagline": "He's back in an all new adventure. Memorial Day 1989."
+  },
+  {
+    "title": "Bicycle Thieves",
+    "year": 1948,
+    "genres": ["Drama"],
+    "certificate": "Not Rated",
+    "budget": 133000,
+    "boxOffice": 436655,
+    "tagline": "The Prize Picture They Want to Censor!"
+  },
+  {
+    "title": "Like Stars on Earth",
+    "year": 2007,
+    "genres": ["Drama", "Family"],
+    "certificate": "PG",
+    "budget": 100000,
+    "boxOffice": 21897373,
+    "tagline": "Every Child is Special"
+  },
+  {
+    "title": "1917",
+    "year": 2019,
+    "genres": ["Action", "Drama"],
+    "certificate": "R",
+    "budget": 95000000,
+    "boxOffice": 384479940,
+    "tagline": "Time is the enemy."
+  },
+  {
+    "title": "Downfall",
+    "year": 2004,
+    "genres": ["Biography", "Drama", "History"],
+    "certificate": "R",
+    "budget": 13500000,
+    "boxOffice": 92181574,
+    "tagline": "April 1945, a nation awaits its..."
+  },
+  {
+    "title": "Dangal",
+    "year": 2016,
+    "genres": ["Action", "Biography", "Drama"],
+    "certificate": "Not Rated",
+    "budget": 100,
+    "boxOffice": 1000,
+    "tagline": "You think our girls are any lesser than boys?"
+  },
+  {
+    "title": "For a Few Dollars More",
+    "year": 1965,
+    "genres": ["Western"],
+    "certificate": "R",
+    "budget": 600000,
+    "boxOffice": 15000000,
+    "tagline": "The man with no name is back."
+  },
+  {
+    "title": "Batman Begins",
+    "year": 2005,
+    "genres": ["Action", "Crime", "Drama"],
+    "certificate": "PG-13",
+    "budget": 150000000,
+    "boxOffice": 373672993,
+    "tagline": "The Legend Begins"
+  },
+  {
+    "title": "The Kid",
+    "year": 1921,
+    "genres": ["Comedy", "Drama", "Family"],
+    "certificate": "Passed",
+    "budget": 250000,
+    "boxOffice": 41960,
+    "tagline": "This is the great film he has been working on for a whole year"
+  },
+  {
+    "title": "Some Like It Hot",
+    "year": 1959,
+    "genres": ["Comedy", "Romance"],
+    "certificate": "Passed",
+    "budget": 2883848,
+    "boxOffice": 195088,
+    "tagline": "Not since SCARFACE, so much action. Not since the Marx Brothers, so much comedy. Not since THE SEVEN YEAR ITCH, so much Marilyn."
+  },
+  {
+    "title": "The Father",
+    "year": 2020,
+    "genres": ["Drama", "Mystery"],
+    "certificate": "PG-13",
+    "budget": 6000000,
+    "boxOffice": 24427162,
+    "tagline": "Nothing is as it seems"
+  },
+  {
+    "title": "All About Eve",
+    "year": 1950,
+    "genres": ["Drama"],
+    "certificate": "Passed",
+    "budget": 1400000,
+    "boxOffice": 151052,
+    "tagline": "It's all about women---and their men!"
+  },
+  {
+    "title": "The Wolf of Wall Street",
+    "year": 2013,
+    "genres": ["Biography", "Comedy", "Crime"],
+    "certificate": "R",
+    "budget": 100000000,
+    "boxOffice": 406878233,
+    "tagline": "Earn. Spend. Party."
+  },
+  {
+    "title": "Green Book",
+    "year": 2018,
+    "genres": ["Biography", "Comedy", "Drama"],
+    "certificate": "PG-13",
+    "budget": 23000000,
+    "boxOffice": 321752656,
+    "tagline": "Inspired by a True Friendship"
+  },
+  {
+    "title": "Judgment at Nuremberg",
+    "year": 1961,
+    "genres": ["Drama"],
+    "certificate": "Approved",
+    "budget": 3000000,
+    "boxOffice": 12180,
+    "tagline": "More than a motion picture...It is an overwhelming experience in human emotion you will never forget!"
+  },
+  {
+    "title": "Casino",
+    "year": 1995,
+    "genres": ["Crime", "Drama"],
+    "certificate": "R",
+    "budget": 52000000,
+    "boxOffice": 116112375,
+    "tagline": "You don't stay at the top forever"
+  },
+  {
+    "title": "Ran",
+    "year": 1985,
+    "genres": ["Action", "Drama"],
+    "certificate": "R",
+    "budget": 11500000,
+    "boxOffice": 4164283,
+    "tagline": "tionDramaWar"
+  },
+  {
+    "title": "Pan's Labyrinth",
+    "year": 2006,
+    "genres": ["Drama", "Fantasy"],
+    "certificate": "R",
+    "budget": 19000000,
+    "boxOffice": 83862032,
+    "tagline": "What happens when make-believe believes it's real?"
+  },
+  {
+    "title": "The Truman Show",
+    "year": 1998,
+    "genres": ["Comedy", "Drama"],
+    "certificate": "PG",
+    "budget": 60000000,
+    "boxOffice": 264118201,
+    "tagline": "All the world's a stage..."
+  },
+  {
+    "title": "There Will Be Blood",
+    "year": 2007,
+    "genres": ["Drama"],
+    "certificate": "R",
+    "budget": 25000000,
+    "boxOffice": 76182388,
+    "tagline": "There Will Be Greed. There Will Be Vengeance."
+  },
+  {
+    "title": "Unforgiven",
+    "year": 1992,
+    "genres": ["Drama", "Western"],
+    "certificate": "R",
+    "budget": 14400000,
+    "boxOffice": 159167799,
+    "tagline": "It's a hell of a thing, killing a man"
+  },
+  {
+    "title": "The Sixth Sense",
+    "year": 1999,
+    "genres": ["Drama", "Mystery", "Thriller"],
+    "certificate": "PG-13",
+    "budget": 40000000,
+    "boxOffice": 672806432,
+    "tagline": "I see dead people"
+  },
+  {
+    "title": "Shutter Island",
+    "year": 2010,
+    "genres": ["Mystery", "Thriller"],
+    "certificate": "R",
+    "budget": 80000000,
+    "boxOffice": 294805697,
+    "tagline": "Someone is missing."
+  },
+  {
+    "title": "A Beautiful Mind",
+    "year": 2001,
+    "genres": ["Biography", "Drama"],
+    "certificate": "PG-13",
+    "budget": 58000000,
+    "boxOffice": 316791257,
+    "tagline": "The Only Thing Greater Than the Power of the Mind is the Courage of the Heart"
+  },
+  {
+    "title": "Jurassic Park",
+    "year": 1993,
+    "genres": ["Action", "Adventure", "Sci-Fi"],
+    "certificate": "PG-13",
+    "budget": 63000000,
+    "boxOffice": 1109802321,
+    "tagline": "Life finds a way."
+  },
+  {
+    "title": "Yojimbo",
+    "year": 1961,
+    "genres": ["Action", "Drama", "Thriller"],
+    "certificate": "Not Rated",
+    "budget": 10000,
+    "boxOffice": 46808,
+    "tagline": "Better if all these men were dead. Think about it!"
+  },
+  {
+    "title": "The Treasure of the Sierra Madre",
+    "year": 1948,
+    "genres": ["Adventure", "Drama", "Western"],
+    "certificate": "Passed",
+    "budget": 3000000,
+    "boxOffice": 5014000,
+    "tagline": "Storming to a New High in High Adventure !"
+  },
+  {
+    "title": "Monty Python and the Holy Grail",
+    "year": 1975,
+    "genres": ["Adventure", "Comedy", "Fantasy"],
+    "certificate": "PG",
+    "budget": 229575,
+    "boxOffice": 1940906,
+    "tagline": "You can do worse than see it."
+  },
+  {
+    "title": "The Great Escape",
+    "year": 1963,
+    "genres": ["Adventure", "Drama", "History"],
+    "certificate": "Approved",
+    "budget": 4000000,
+    "boxOffice": 228178,
+    "tagline": "put a fence in front of these men...and they'll climb it..."
+  },
+  {
+    "title": "No Country for Old Men",
+    "year": 2007,
+    "genres": ["Crime", "Drama", "Thriller"],
+    "certificate": "R",
+    "budget": 25000000,
+    "boxOffice": 171627434,
+    "tagline": "There Are No Clean Getaways"
+  },
+  {
+    "title": "Spider-Man: No Way Home",
+    "year": 2021,
+    "genres": ["Action", "Adventure", "Fantasy"],
+    "certificate": "PG-13",
+    "budget": 200000000,
+    "boxOffice": 1921847111,
+    "tagline": "The Multiverse Unleashed."
+  },
+  {
+    "title": "Kill Bill: Vol. 1",
+    "year": 2003,
+    "genres": ["Action", "Crime", "Drama"],
+    "certificate": "R",
+    "budget": 30000000,
+    "boxOffice": 180906076,
+    "tagline": "In the year 2003, Uma Thurman will kill Bill"
+  },
+  {
+    "title": "Rashomon",
+    "year": 1950,
+    "genres": ["Crime", "Drama", "Mystery"],
+    "certificate": "Not Rated",
+    "budget": 250000,
+    "boxOffice": 81379,
+    "tagline": "The husband, the wife...or the bandit?"
+  },
+  {
+    "title": "The Thing",
+    "year": 1982,
+    "genres": ["Horror", "Mystery", "Sci-Fi"],
+    "certificate": "R",
+    "budget": 15000000,
+    "boxOffice": 19632715,
+    "tagline": "Anytime. Anywhere. Anyone."
+  },
+  {
+    "title": "Finding Nemo",
+    "year": 2003,
+    "genres": ["Animation", "Adventure", "Comedy"],
+    "certificate": "G",
+    "budget": 94000000,
+    "boxOffice": 941637960,
+    "tagline": "71% of the Earth's surface is covered by water. That's a lot of space to find one fish."
+  },
+  {
+    "title": "The Elephant Man",
+    "year": 1980,
+    "genres": ["Biography", "Drama"],
+    "certificate": "PG",
+    "budget": 5000000,
+    "boxOffice": 26023860,
+    "tagline": "An incredible but true story... probably this year's best film."
+  },
+  {
+    "title": "Chinatown",
+    "year": 1974,
+    "genres": ["Drama", "Mystery", "Thriller"],
+    "certificate": "R",
+    "budget": 6000000,
+    "boxOffice": 29225935,
+    "tagline": "You get tough. You get tender. You get close to each other. Maybe you even get close to the truth."
+  },
+  {
+    "title": "Raging Bull",
+    "year": 1980,
+    "genres": ["Biography", "Drama", "Sports"],
+    "certificate": "R",
+    "budget": 18000000,
+    "boxOffice": 23402427,
+    "tagline": "ographyDramaSport"
+  },
+  {
+    "title": "V for Vendetta",
+    "year": 2005,
+    "genres": ["Action", "Drama", "Sci-Fi"],
+    "certificate": "R",
+    "budget": 54000000,
+    "boxOffice": 134686457,
+    "tagline": "Remember, remember the 5th of November, the gun powder treason and plot. I know of no reason why the gun powder treason should ever be forgot."
+  },
+  {
+    "title": "Gone with the Wind",
+    "year": 1939,
+    "genres": ["Drama", "Romance"],
+    "certificate": "Passed",
+    "budget": 3977000,
+    "boxOffice": 402382193,
+    "tagline": "For the thousands who remember its unparalleled drama, action and romance! For the new thousands to whom the wonders will be revealed for the first time! Breathtaking spectacle, inspired acting by the greatest cast ever assembled! The screen's most exciting love story! The most-talked about picture ever made! [reissue]"
+  },
+  {
+    "title": "Lock, Stock and Two Smoking Barrels",
+    "year": 1998,
+    "genres": ["Action", "Comedy", "Crime"],
+    "certificate": "R",
+    "budget": 960000,
+    "boxOffice": 3753929,
+    "tagline": "A Disgrace to Criminals Everywhere."
+  },
+  {
+    "title": "Inside Out",
+    "year": 2015,
+    "genres": ["Animation", "Adventure", "Comedy"],
+    "certificate": "PG",
+    "budget": 175000000,
+    "boxOffice": 858848019,
+    "tagline": "Meet the little voices inside your head."
+  },
+  {
+    "title": "Dial M for Murder",
+    "year": 1954,
+    "genres": ["Crime", "Thriller"],
+    "certificate": "PG",
+    "budget": 1400000,
+    "boxOffice": 31207,
+    "tagline": "Kiss By Kiss...Supreme Suspense Unfurls!"
+  },
+  {
+    "title": "The Secret in Their Eyes",
+    "year": 2009,
+    "genres": ["Drama", "Mystery", "Romance"],
+    "certificate": "R",
+    "budget": 100,
+    "boxOffice": 1000,
+    "tagline": "Un crimen sin castigo. Un amor puro. Una historia que no debe morir. [A crime without a punishment. A pure love. A story that must not die.]"
+  },
+  {
+    "title": "Howl's Moving Castle",
+    "year": 2004,
+    "genres": ["Animation", "Adventure", "Family"],
+    "certificate": "PG",
+    "budget": 24000000,
+    "boxOffice": 237536126,
+    "tagline": "imationAdventureFamilyFantasy"
+  },
+  {
+    "title": "Three Billboards Outside Ebbing, Missouri",
+    "year": 2017,
+    "genres": ["Comedy", "Crime", "Drama"],
+    "certificate": "R",
+    "budget": 15000000,
+    "boxOffice": 162861289,
+    "tagline": "medyCrimeDrama"
+  },
+  {
+    "title": "The Bridge on the River Kwai",
+    "year": 1957,
+    "genres": ["Adventure", "Drama"],
+    "certificate": "PG",
+    "budget": 3000000,
+    "boxOffice": 27200000,
+    "tagline": "The towering triumph of adventure from the makers of Lawrence of Arabia."
+  },
+  {
+    "title": "Trainspotting",
+    "year": 1996,
+    "genres": ["Drama"],
+    "certificate": "R",
+    "budget": 1500000,
+    "boxOffice": 16767475,
+    "tagline": "Choose life. Choose a job. Choose a starter home. Choose dental insurance, leisure wear and matching luggage. Choose your future. But why would anyone want to do a thing like that?"
+  },
+  {
+    "title": "Prisoners",
+    "year": 2013,
+    "genres": ["Crime", "Drama", "Mystery"],
+    "certificate": "R",
+    "budget": 46000000,
+    "boxOffice": 122126687,
+    "tagline": "Every moment matters"
+  },
+  {
+    "title": "Warrior",
+    "year": 2011,
+    "genres": ["Action", "Drama", "Sports"],
+    "certificate": "PG-13",
+    "budget": 25000000,
+    "boxOffice": 23308615,
+    "tagline": "Fight for Country"
+  },
+  {
+    "title": "Fargo",
+    "year": 1996,
+    "genres": ["Crime", "Thriller"],
+    "certificate": "R",
+    "budget": 7000000,
+    "boxOffice": 60611975,
+    "tagline": "A homespun murder story."
+  },
+  {
+    "title": "Gran Torino",
+    "year": 2008,
+    "genres": ["Drama"],
+    "certificate": "R",
+    "budget": 33000000,
+    "boxOffice": 269958228,
+    "tagline": "ma"
+  },
+  {
+    "title": "My Neighbor Totoro",
+    "year": 1988,
+    "genres": ["Animation", "Comedy", "Family"],
+    "certificate": "G",
+    "budget": 28000000,
+    "boxOffice": 45000000,
+    "tagline": "imationComedyFamilyFantasy"
+  },
+  {
+    "title": "Catch Me If You Can",
+    "year": 2002,
+    "genres": ["Biography", "Crime", "Drama"],
+    "certificate": "PG-13",
+    "budget": 100,
+    "boxOffice": 1000,
+    "tagline": "The true story of a real fake."
+  },
+  {
+    "title": "Million Dollar Baby",
+    "year": 2004,
+    "genres": ["Drama", "Sports"],
+    "certificate": "PG-13",
+    "budget": 30000000,
+    "boxOffice": 216763646,
+    "tagline": "Beyond his silence, there is a past. Beyond her dreams, there is a feeling. Beyond hope, there is a memory. Beyond their journey, there is a love."
+  },
+  {
+    "title": "Children of Heaven",
+    "year": 1997,
+    "genres": ["Drama", "Family", "Sports"],
+    "certificate": "PG",
+    "budget": 100,
+    "boxOffice": 1000,
+    "tagline": "A Little Secret...Their Biggest Adventure!"
+  },
+  {
+    "title": "Blade Runner",
+    "year": 1982,
+    "genres": ["Action", "Drama", "Sci-Fi"],
+    "certificate": "R",
+    "budget": 28000000,
+    "boxOffice": 41722424,
+    "tagline": "A Futuristic Vision Perfected [2007 Final Cut]"
+  },
+  {
+    "title": "The Gold Rush",
+    "year": 1925,
+    "genres": ["Adventure", "Comedy", "Drama"],
+    "certificate": "Passed",
+    "budget": 923000,
+    "boxOffice": 29328,
+    "tagline": "The Picture I Want to Be Remembered by. -Charlie Chaplin. (Print Ad- Calgary Daily Herald, ((Calgary, Alta.)) 30 December 1925)"
+  },
+  {
+    "title": "Before Sunrise",
+    "year": 1995,
+    "genres": ["Drama", "Romance"],
+    "certificate": "R",
+    "budget": 2500000,
+    "boxOffice": 5987386,
+    "tagline": "Jump on and live a Eurorail journey you will never forget!"
+  },
+  {
+    "title": "12 Years a Slave",
+    "year": 2013,
+    "genres": ["Biography", "Drama", "History"],
+    "certificate": "R",
+    "budget": 20000000,
+    "boxOffice": 187733202,
+    "tagline": "The extraordinary true story of Solomon Northup"
+  },
+  {
+    "title": "Klaus",
+    "year": 2019,
+    "genres": ["Animation", "Adventure", "Comedy"],
+    "certificate": "PG",
+    "budget": 100,
+    "boxOffice": 1000,
+    "tagline": "Discover the friendship that launched a legend."
+  },
+  {
+    "title": "Harry Potter and the Deathly Hallows: Part 2",
+    "year": 2011,
+    "genres": ["Adventure", "Family", "Fantasy"],
+    "certificate": "PG-13",
+    "budget": 125000000,
+    "boxOffice": 1342359942,
+    "tagline": "It All Ends Here"
+  },
+  {
+    "title": "On the Waterfront",
+    "year": 1954,
+    "genres": ["Crime", "Drama", "Thriller"],
+    "certificate": "Approved",
+    "budget": 910000,
+    "boxOffice": 910000,
+    "tagline": "The Man Lived by the Jungle Law of the Docks!"
+  },
+  {
+    "title": "Ben-Hur",
+    "year": 1959,
+    "genres": ["Adventure", "Drama"],
+    "certificate": "G",
+    "budget": 15000000,
+    "boxOffice": 74437720,
+    "tagline": "A Tale of the Christ"
+  },
+  {
+    "title": "Gone Girl",
+    "year": 2014,
+    "genres": ["Drama", "Mystery", "Thriller"],
+    "certificate": "R",
+    "budget": 100,
+    "boxOffice": 1000,
+    "tagline": "You don't know what you've got 'til it's..."
+  },
+  {
+    "title": "The Grand Budapest Hotel",
+    "year": 2014,
+    "genres": ["Adventure", "Comedy", "Crime"],
+    "certificate": "R",
+    "budget": 25000000,
+    "boxOffice": 173082189,
+    "tagline": "ventureComedyCrime"
+  },
+  {
+    "title": "Wild Strawberries",
+    "year": 1957,
+    "genres": ["Drama", "Romance"],
+    "certificate": "Not Rated",
+    "budget": 10000,
+    "boxOffice": 60418,
+    "tagline": "We are such stuff as dreams are made on, and our little life is rounded with a sleep. Shakespeare - The Tempest"
+  },
+  {
+    "title": "The General",
+    "year": 1926,
+    "genres": ["Action", "Adventure", "Comedy"],
+    "certificate": "Passed",
+    "budget": 750000,
+    "boxOffice": 750000,
+    "tagline": "Buster drives The General to trainload of laughter. (Trade paper ad)."
+  },
+  {
+    "title": "The Third Man",
+    "year": 1949,
+    "genres": ["Mystery", "Thriller"],
+    "certificate": "Approved",
+    "budget": 100,
+    "boxOffice": 1226507,
+    "tagline": "Carol Reed's Classic Thriller"
+  },
+  {
+    "title": "In the Name of the Father",
+    "year": 1993,
+    "genres": ["Biography", "Crime", "Drama"],
+    "certificate": "R",
+    "budget": 100,
+    "boxOffice": 1000,
+    "tagline": "Falsely accused.  Wrongly imprisoned.  He fought for justice to clear his father's name."
+  },
+  {
+    "title": "The Deer Hunter",
+    "year": 1978,
+    "genres": ["Drama"],
+    "certificate": "R",
+    "budget": 15000000,
+    "boxOffice": 49074379,
+    "tagline": "One of the most important and powerful films of all time!"
+  },
+  {
+    "title": "Barry Lyndon",
+    "year": 1975,
+    "genres": ["Adventure", "Drama"],
+    "certificate": "PG",
+    "budget": 11000000,
+    "boxOffice": 199632,
+    "tagline": "At long last Redmond Barry became a gentleman -- and that was his tragedy."
+  },
+  {
+    "title": "Hacksaw Ridge",
+    "year": 2016,
+    "genres": ["Biography", "Drama", "History"],
+    "certificate": "R",
+    "budget": 40000000,
+    "boxOffice": 180563636,
+    "tagline": "Based on the incredible true story."
+  },
+  {
+    "title": "The Wages of Fear",
+    "year": 1953,
+    "genres": ["Adventure", "Drama", "Thriller"],
+    "certificate": "Not Rated",
+    "budget": 1000,
+    "boxOffice": 1098,
+    "tagline": "The complete restored version of the 1953 French classic [reissue]"
+  },
+  {
+    "title": "Memories of Murder",
+    "year": 2003,
+    "genres": ["Crime", "Drama", "Mystery"],
+    "certificate": "Not Rated",
+    "budget": 2800000,
+    "boxOffice": 1166717,
+    "tagline": "1986 in a small town...for two detectives, everything was new."
+  },
+  {
+    "title": "Sherlock Jr.",
+    "year": 1924,
+    "genres": ["Action", "Comedy", "Romance"],
+    "certificate": "Passed",
+    "budget": 100,
+    "boxOffice": 1000,
+    "tagline": "every inch of footage holds such a laugh!"
+  },
+  {
+    "title": "Wild Tales",
+    "year": 2014,
+    "genres": ["Comedy", "Drama", "Thriller"],
+    "certificate": "R",
+    "budget": 100,
+    "boxOffice": 1000,
+    "tagline": "We can all lose control"
+  },
+  {
+    "title": "Mr. Smith Goes to Washington",
+    "year": 1939,
+    "genres": ["Comedy", "Drama"],
+    "certificate": "Passed",
+    "budget": 1900000,
+    "boxOffice": 144738,
+    "tagline": "OUR OPERATOR SAYS..IT'S GOING TO BE A PLEASURE TO RUN MR. SMITH GOES TO WASHINGTON 5 DAYS STARTING SUNDAY, NOV.7) (print ad - Lubbock Morning Avalanche - Cactus Theatre - Lubbock Texas - November 2, 1938 - all caps)"
+  },
+  {
+    "title": "Mad Max: Fury Road",
+    "year": 2015,
+    "genres": ["Action", "Adventure", "Sci-Fi"],
+    "certificate": "R",
+    "budget": 150000000,
+    "boxOffice": 415261382,
+    "tagline": "WHAT A LOVELY DAY (all caps One Sheet)"
+  },
+  {
+    "title": "The Seventh Seal",
+    "year": 1957,
+    "genres": ["Drama", "Fantasy"],
+    "certificate": "Not Rated",
+    "budget": 150000,
+    "boxOffice": 311212,
+    "tagline": "A film of visual scope, of imaginative concept, of powerful content, written and directed by Ingmar Bergman, twice honored by the Interational Jury at the Cannes Film Festival 1956,1957"
+  },
+  {
+    "title": "Mary and Max",
+    "year": 2009,
+    "genres": ["Animation", "Comedy", "Drama"],
+    "certificate": "Not Rated",
+    "budget": 8240000,
+    "boxOffice": 1740429,
+    "tagline": "Two unlikely people. Two different worlds come together in a story about a most unusual friendship."
+  },
+  {
+    "title": "How to Train Your Dragon",
+    "year": 2010,
+    "genres": ["Animation", "Action", "Adventure"],
+    "certificate": "PG",
+    "budget": 165000000,
+    "boxOffice": 494879471,
+    "tagline": "One adventure will change two worlds"
+  },
+  {
+    "title": "Room",
+    "year": 2015,
+    "genres": ["Drama", "Thriller"],
+    "certificate": "R",
+    "budget": 13000000,
+    "boxOffice": 35401758,
+    "tagline": "Love knows no boundaries"
+  },
+  {
+    "title": "Monsters, Inc.",
+    "year": 2001,
+    "genres": ["Animation", "Adventure", "Comedy"],
+    "certificate": "G",
+    "budget": 115000000,
+    "boxOffice": 579707738,
+    "tagline": "Monsters, Inc. : We Scare Because We Care"
+  },
+  {
+    "title": "Jaws",
+    "year": 1975,
+    "genres": ["Adventure", "Thriller"],
+    "certificate": "PG",
+    "budget": 7000000,
+    "boxOffice": 476512065,
+    "tagline": "Amity Island had everything. Clear skies. Gentle surf. Warm water. People flocked there every summer. It was the perfect feeding ground."
+  },
+  {
+    "title": "Dead Poets Society",
+    "year": 1989,
+    "genres": ["Comedy", "Drama"],
+    "certificate": "PG",
+    "budget": 16400000,
+    "boxOffice": 235860116,
+    "tagline": "He was their inspiration. He made their lives extraordinary."
+  },
+  {
+    "title": "The Big Lebowski",
+    "year": 1998,
+    "genres": ["Comedy", "Crime"],
+    "certificate": "R",
+    "budget": 15000000,
+    "boxOffice": 46969409,
+    "tagline": "Hay quienes tratan de ganarse la vida sin mover un dedo... otros tienen que cortarlos. (Mexico)"
+  },
+  {
+    "title": "Tokyo Story",
+    "year": 1953,
+    "genres": ["Drama"],
+    "certificate": "Not Rated",
+    "budget": 100,
+    "boxOffice": 1000,
+    "tagline": "As long as life goes on, relationships between parents and children will bring boundless joy and endless grief."
+  },
+  {
+    "title": "The Passion of Joan of Arc",
+    "year": 1928,
+    "genres": ["Biography", "Drama", "History"],
+    "certificate": "Passed",
+    "budget": 100,
+    "boxOffice": 1000,
+    "tagline": "JOAN of ARC PICTURES Inc. presents"
+  },
+  {
+    "title": "Hotel Rwanda",
+    "year": 2004,
+    "genres": ["Biography", "Drama", "History"],
+    "certificate": "PG-13",
+    "budget": 17500000,
+    "boxOffice": 33882243,
+    "tagline": "When a country descended into madness and the world turned its back, one man had to make a choice"
+  },
+  {
+    "title": "Ford v Ferrari",
+    "year": 2019,
+    "genres": ["Action", "Biography", "Drama"],
+    "certificate": "PG-13",
+    "budget": 97600000,
+    "boxOffice": 225508210,
+    "tagline": "They took the American dream for a ride."
+  },
+  {
+    "title": "Rocky",
+    "year": 1976,
+    "genres": ["Drama", "Sports"],
+    "certificate": "PG",
+    "budget": 960000,
+    "boxOffice": 117250402,
+    "tagline": "You have a ringside seat for the bloodiest bicentennial in history!"
+  },
+  {
+    "title": "Platoon",
+    "year": 1986,
+    "genres": ["Drama"],
+    "certificate": "R",
+    "budget": 6000000,
+    "boxOffice": 138545632,
+    "tagline": "The first casualty of war is innocence."
+  },
+  {
+    "title": "Ratatouille",
+    "year": 2007,
+    "genres": ["Animation", "Adventure", "Comedy"],
+    "certificate": "G",
+    "budget": 150000000,
+    "boxOffice": 623726085,
+    "tagline": "Dinner is served... Summer 2007"
+  },
+  {
+    "title": "Spotlight",
+    "year": 2015,
+    "genres": ["Biography", "Crime", "Drama"],
+    "certificate": "R",
+    "budget": 20000000,
+    "boxOffice": 98690254,
+    "tagline": "Break the story. Break the silence."
+  },
+  {
+    "title": "The Terminator",
+    "year": 1984,
+    "genres": ["Action", "Sci-Fi"],
+    "certificate": "R",
+    "budget": 6400000,
+    "boxOffice": 78371200,
+    "tagline": "La sua missione e una sola: distruggere, uccidere... (His one and only mission: to destroy, to kill...) (Italian DVD)"
+  },
+  {
+    "title": "Logan",
+    "year": 2017,
+    "genres": ["Action", "Drama", "Sci-Fi"],
+    "certificate": "R",
+    "budget": 97000000,
+    "boxOffice": 619179950,
+    "tagline": "His time has come"
+  },
+  {
+    "title": "Stand by Me",
+    "year": 1986,
+    "genres": ["Adventure", "Drama"],
+    "certificate": "13+",
+    "budget": 8000000,
+    "boxOffice": 52287414,
+    "tagline": "For some, it's the last real taste of innocence, and the first real taste of life. But for everyone, it's the time that memories are made of."
+  },
+  {
+    "title": "Rush",
+    "year": 2013,
+    "genres": ["Action", "Biography", "Drama"],
+    "certificate": "R",
+    "budget": 38000000,
+    "boxOffice": 96983009,
+    "tagline": "Everyone's driven by something."
+  },
+  {
+    "title": "Network",
+    "year": 1976,
+    "genres": ["Drama"],
+    "certificate": "R",
+    "budget": 3800000,
+    "boxOffice": 23690757,
+    "tagline": "NETWORK... the humanoids, the love story, the trials and tribulations, the savior of television, the attempted suicides, the assassination -- it's ALL coming along with a galaxy of stars you know and love!"
+  },
+  {
+    "title": "Into the Wild",
+    "year": 2007,
+    "genres": ["Adventure", "Biography", "Drama"],
+    "certificate": "R",
+    "budget": 15000000,
+    "boxOffice": 56675895,
+    "tagline": "Into the heart Into the soul"
+  },
+  {
+    "title": "Before Sunset",
+    "year": 2004,
+    "genres": ["Drama", "Romance"],
+    "certificate": "R",
+    "budget": 100,
+    "boxOffice": 1000,
+    "tagline": "What if you had a second chance with the one that got away?"
+  },
+  {
+    "title": "The Wizard of Oz",
+    "year": 1939,
+    "genres": ["Adventure", "Family", "Fantasy"],
+    "certificate": "G",
+    "budget": 2777000,
+    "boxOffice": 25637669,
+    "tagline": "Mighty Miracle Show Of 1000 Delights !"
+  },
+  {
+    "title": "Pather Panchali",
+    "year": 1955,
+    "genres": ["Drama"],
+    "certificate": "Not Rated",
+    "budget": 100,
+    "boxOffice": 135342,
+    "tagline": "The Saga of an Indian Family"
+  },
+  {
+    "title": "Groundhog Day",
+    "year": 1993,
+    "genres": ["Comedy", "Drama", "Fantasy"],
+    "certificate": "PG",
+    "budget": 14600000,
+    "boxOffice": 71108591,
+    "tagline": "What would you do if you were stuck in the same day... over and over? Anything you want and everything your heart desires."
+  },
+  {
+    "title": "The Best Years of Our Lives",
+    "year": 1946,
+    "genres": ["Drama", "Romance"],
+    "certificate": "Approved",
+    "budget": 2100000,
+    "boxOffice": 23661347,
+    "tagline": "THE SCREEN'S GREATEST LOVE STORY IS THE BEST FILM THIS YEAR FROM HOLLYWOOD!"
+  },
+  {
+    "title": "The Exorcist",
+    "year": 1973,
+    "genres": ["Horror"],
+    "certificate": "R",
+    "budget": 11000000,
+    "boxOffice": 441306145,
+    "tagline": "The movie you've been waiting for...without the wait."
+  },
+  {
+    "title": "The Incredibles",
+    "year": 2004,
+    "genres": ["Animation", "Action", "Adventure"],
+    "certificate": "PG",
+    "budget": 92000000,
+    "boxOffice": 631607053,
+    "tagline": "Save The Day"
+  },
+  {
+    "title": "To Be or Not to Be",
+    "year": 1942,
+    "genres": ["Comedy", "Romance"],
+    "certificate": "Passed",
+    "budget": 100,
+    "boxOffice": 1000,
+    "tagline": "The Picture Everyone Wants To See."
+  },
+  {
+    "title": "La haine",
+    "year": 1995,
+    "genres": ["Crime", "Drama"],
+    "certificate": "Not Rated",
+    "budget": 100,
+    "boxOffice": 1000,
+    "tagline": "So far, so good"
+  },
+  {
+    "title": "The Battle of Algiers",
+    "year": 1966,
+    "genres": ["Drama"],
+    "certificate": "Not Rated",
+    "budget": 800000,
+    "boxOffice": 962002,
+    "tagline": "The French Colonel...who was forced even to torture! One of the many women...who stopped at nothing to win! The Algerian Street Boy...who became a rebel hero!"
+  },
+  {
+    "title": "Pirates of the Caribbean: The Curse of the Black Pearl",
+    "year": 2003,
+    "genres": ["Action", "Adventure", "Fantasy"],
+    "certificate": "PG-13",
+    "budget": 140000000,
+    "boxOffice": 654264015,
+    "tagline": "Prepare to be blown out of the water."
+  },
+  {
+    "title": "Hachi: A Dog's Tale",
+    "year": 2009,
+    "genres": ["Biography", "Drama", "Family"],
+    "certificate": "G",
+    "budget": 100,
+    "boxOffice": 1000,
+    "tagline": "A true story of faith, devotion and undying love."
+  },
+  {
+    "title": "The Grapes of Wrath",
+    "year": 1940,
+    "genres": ["Drama"],
+    "certificate": "Passed",
+    "budget": 800000,
+    "boxOffice": 800000,
+    "tagline": "The thousands who have read the book will know why WE WILL NOT SELL ANY CHILDREN TICKETS to see this picture!"
+  },
+  {
+    "title": "Jai Bhim",
+    "year": 2021,
+    "genres": ["Crime", "Drama", "Mystery"],
+    "certificate": "TV-MA",
+    "budget": 100,
+    "boxOffice": 1000,
+    "tagline": "imeDramaMystery"
+  },
+  {
+    "title": "My Father and My Son",
+    "year": 2005,
+    "genres": ["Drama", "Family"],
+    "certificate": "Not Rated",
+    "budget": 100,
+    "boxOffice": 1000,
+    "tagline": "Give him a room dad, he has no place to go..."
+  },
+  {
+    "title": "Amores Perros",
+    "year": 2000,
+    "genres": ["Drama", "Thriller"],
+    "certificate": "R",
+    "budget": 2000000,
+    "boxOffice": 20908467,
+    "tagline": "Love. Betrayal. Death."
+  },
+  {
+    "title": "Rebecca",
+    "year": 1940,
+    "genres": ["Drama", "Mystery"],
+    "certificate": "Approved",
+    "budget": 1288000,
+    "boxOffice": 72275,
+    "tagline": "THE MIGHTY NOVEL LEAPS TO TURBULENT LIFE ON THE SCREEN! (Print Ad- Syracuse Herald-American, ((Syracuse, NY)) 24 March 1940)"
+  },
+  {
+    "title": "Cool Hand Luke",
+    "year": 1967,
+    "genres": ["Crime", "Drama"],
+    "certificate": "GP",
+    "budget": 3200000,
+    "boxOffice": 67,
+    "tagline": "What we've got here is failure to communicate."
+  },
+  {
+    "title": "The Handmaiden",
+    "year": 2016,
+    "genres": ["Drama", "Romance", "Thriller"],
+    "certificate": "Not Rated",
+    "budget": 100,
+    "boxOffice": 1000,
+    "tagline": "Never did they expect to get into a controversial relationship..."
+  },
+  {
+    "title": "The 400 Blows",
+    "year": 1959,
+    "genres": ["Crime", "Drama"],
+    "certificate": "Not Rated",
+    "budget": 100,
+    "boxOffice": 127244,
+    "tagline": "From the Vanguard of New Film-Makers Comes an Extraordinary Motion Picture"
+  },
+  {
+    "title": "The Sound of Music",
+    "year": 1965,
+    "genres": ["Biography", "Drama", "Family"],
+    "certificate": "G",
+    "budget": 8200000,
+    "boxOffice": 159428329,
+    "tagline": "RADIANCE THAT FLOODS THE SCREEN...AND WARMS THE HEART!"
+  },
+  {
+    "title": "It Happened One Night",
+    "year": 1934,
+    "genres": ["Comedy", "Romance"],
+    "certificate": "Passed",
+    "budget": 325000,
+    "boxOffice": 11477,
+    "tagline": "Two great lovers of the screen in the grandest of romantic comedies !"
+  },
+  {
+    "title": "Persona",
+    "year": 1966,
+    "genres": ["Drama", "Thriller"],
+    "certificate": "Not Rated",
+    "budget": 100,
+    "boxOffice": 1000,
+    "tagline": "A new film by Ingmar Bergman"
+  },
+  {
+    "title": "Life of Brian",
+    "year": 1979,
+    "genres": ["Comedy"],
+    "certificate": "R",
+    "budget": 4000000,
+    "boxOffice": 20745728,
+    "tagline": "A motion picture destined to offend nearly two thirds of the civilized world. And severely annoy the other third."
+  },
+  {
+    "title": "The Iron Giant",
+    "year": 1999,
+    "genres": ["Animation", "Action", "Adventure"],
+    "certificate": "PG",
+    "budget": 70000000,
+    "boxOffice": 23335817,
+    "tagline": "Some secrets are too huge to hide"
+  },
+  {
+    "title": "The Help",
+    "year": 2011,
+    "genres": ["Drama"],
+    "certificate": "PG-13",
+    "budget": 25000000,
+    "boxOffice": 216639112,
+    "tagline": "Change begins with a whisper."
+  },
+  {
+    "title": "Dersu Uzala",
+    "year": 1975,
+    "genres": ["Adventure", "Biography", "Drama"],
+    "certificate": "G",
+    "budget": 4000000,
+    "boxOffice": 14480,
+    "tagline": "There is man and beast at nature's mercy. There is awe and love and reverence. And there is the man called..."
+  },
+  {
+    "title": "FAMILY FEUDDDDDDDD",
+    "year": 2025,
+    "genres": ["Game Show"],
+    "certificate": "PG",
+    "budget": 9999,
+    "boxOffice": 99999,
+    "tagline": "GREATEST SHOW EVER MADE"
+  },
+  {
+    "title": "Aladdin",
+    "year": 1992,
+    "genres": ["Animation", "Adventure", "Comedy"],
+    "certificate": "G",
+    "budget": 100,
+    "boxOffice": 1000,
+    "tagline": "Wish granted! (DVD re-release)"
+  },
+  {
+    "title": "Gandhi",
+    "year": 1982,
+    "genres": ["Biography", "Drama", "History"],
+    "certificate": "PG",
+    "budget": 22000000,
+    "boxOffice": 52767889,
+    "tagline": "His Triumph Changed The World Forever."
+  },
+  {
+    "title": "Dances with Wolves",
+    "year": 1990,
+    "genres": ["Adventure", "Drama", "Western"],
+    "certificate": "PG-13",
+    "budget": 22000000,
+    "boxOffice": 424208848,
+    "tagline": "Inside everyone is a frontier waiting to be discovered."
+  },
+  {
+    "title": "blah movie",
+    "year": 1992,
+    "genres": ["Western", "News"],
+    "certificate": "R",
+    "budget": 100,
+    "boxOffice": 2000,
+    "tagline": "this is the tagline"
+  },
+  {
+    "title": "fun movie",
+    "year": 1991,
+    "genres": ["Western", "Thriller"],
+    "certificate": "R",
+    "budget": 1000,
+    "boxOffice": 2000,
+    "tagline": "its so fun"
+  },
+  {
+    "title": "fun movie",
+    "year": 1991,
+    "genres": [],
+    "certificate": "R",
+    "budget": 1000,
+    "boxOffice": null,
+    "tagline": "INVALID"
+  }
+]
